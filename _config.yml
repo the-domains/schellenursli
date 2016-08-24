@@ -1,28 +1,18 @@
-name: Schellenurs.li
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0f1e72a-4b80-44d9-b24d-c2314edf7493.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9643c287-eb1c-4217-8059-edea8442fbe2.png
 layout_spectrum: 0.21919734263792634
 typography_spectrum: 0.2384861537721008
-opengraph:
-  type: ''
-  appId: ''
 color:
+  brandStrength: 0.8477495815604925
+  lightness: 0.9584958245977759
+  saturation: 0.6426843816880137
+  rhythmicContrast: 0.5979812417645007
   brandColors:
     - '#FFFFFF'
     - '#303636'
     - '#949381'
     - '#FDB45A'
     - '#C8CBD0'
-  brandStrength: 0.8477495815604925
-  lightness: 0.9584958245977759
-  saturation: 0.6426843816880137
-  rhythmicContrast: 0.5979812417645007
-title: ''
-author:
-  name: ''
-  url: ''
-  email: ''
-content_rating:
-  adult: false
+name: Schellenurs.li
+navigation:
+  - name: Gadgets
+    id: df895105-28f0-4ce5-a3c4-02c84995971e
+    type: content
