@@ -1,8 +1,8 @@
 name: Schellenurs.li
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2734c65e-a194-4db0-9827-970d6b65b720.svg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0f1e72a-4b80-44d9-b24d-c2314edf7493.png
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/aee96161-103c-446f-a854-87b5e0e924e8.svg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9643c287-eb1c-4217-8059-edea8442fbe2.png
 layout_spectrum: 0.21919734263792634
 typography_spectrum: 0.2384861537721008
 opengraph:
@@ -21,8 +21,8 @@ color:
   rhythmicContrast: 0.5979812417645007
 title: ''
 author:
-  name: Ursin Saluz
-  url: www.schellenurs.li
-  email: ursin.saluz@gmail.com
+  name: ''
+  url: ''
+  email: ''
 content_rating:
   adult: false
