@@ -6,9 +6,9 @@ color:
   saturation: 0.6426843816880137
   rhythmicContrast: 0.5979812417645007
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#FFFFFF'
+    - '#303636'
+    - '#949381'
+    - '#FDB45A'
+    - '#C8CBD0'
 name: Schellenurs.li
