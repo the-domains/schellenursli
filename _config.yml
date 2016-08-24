@@ -1,14 +1,28 @@
+name: Schellenurs.li
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2734c65e-a194-4db0-9827-970d6b65b720.svg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/aee96161-103c-446f-a854-87b5e0e924e8.svg
 layout_spectrum: 0.21919734263792634
 typography_spectrum: 0.2384861537721008
+opengraph:
+  type: ''
+  appId: ''
 color:
-  brandStrength: 0.8477495815604925
-  lightness: 0.9584958245977759
-  saturation: 0.6426843816880137
-  rhythmicContrast: 0.5979812417645007
   brandColors:
     - '#FFFFFF'
     - '#303636'
     - '#949381'
     - '#FDB45A'
     - '#C8CBD0'
-name: Schellenurs.li
+  brandStrength: 0.8477495815604925
+  lightness: 0.9584958245977759
+  saturation: 0.6426843816880137
+  rhythmicContrast: 0.5979812417645007
+title: ''
+author:
+  name: Ursin Saluz
+  url: www.schellenurs.li
+  email: ursin.saluz@gmail.com
+content_rating:
+  adult: false
