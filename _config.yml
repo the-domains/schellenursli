@@ -10,11 +10,22 @@ color:
     - '#949381'
     - '#FDB45A'
     - '#C8CBD0'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b7f12aa-f4ef-44f3-860b-3af824b7e913.jpg
 layout_spectrum: 0.21919734263792634
+author:
+  name: Ursin Saluz
+  email: ursin.saluz@gmail.com
+  url: www.alvier.ch
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bda2f1b-3fde-4e64-8317-77b60a4bc9ec.svg
 name: Schellenurs.li
 navigation:
   - name: Gadgets
     id: df895105-28f0-4ce5-a3c4-02c84995971e
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dbf4f49-5d6b-468f-bd40-028edb3ef10f.svg
 title: Schellenursli
 description: Welcome to my world
