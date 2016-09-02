@@ -1,4 +1,3 @@
-layout_spectrum: 0.21919734263792634
 typography_spectrum: 0.2384861537721008
 color:
   brandStrength: 0.8477495815604925
@@ -11,8 +10,10 @@ color:
     - '#949381'
     - '#FDB45A'
     - '#C8CBD0'
+layout_spectrum: 0.21919734263792634
 name: Schellenurs.li
 navigation:
   - name: Gadgets
     id: df895105-28f0-4ce5-a3c4-02c84995971e
     type: content
+description: 'Welcome to my '
