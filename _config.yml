@@ -14,6 +14,8 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b7f12aa-f4ef-44f3-860b-3af824b7e913.jpg
 layout_spectrum: 0.21919734263792634
+analytics:
+  google: UA-56165495-1
 author:
   name: Ursin Saluz
   email: ursin.saluz@gmail.com
