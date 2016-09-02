@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Schellenursli]]></title>
         <description><![CDATA[Schellenursli]]></description>
-        <link>http://www.schellenurs.li/</link>
+        <link>https://thegrid.ai/schellenursli/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 12:27:01 GMT</lastBuildDate>
-        <atom:link href="http://www.schellenurs.li/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 12:31:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/schellenursli/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Schellenursli, thats me!]]></title>
-            <description><![CDATA[<article><h1>Schellenursli, thats me!</h1><p>This is the Schellenursli, thats me. Ursin Saluz. Here I want to blog about my live and things I like. Sometimes in english, sometimes in german and maybe even a bit of swiss-german. Enjoy.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/230dab37-74f1-4559-ac87-e57789d7b1a0.jpg"></article>]]></description>
-            <link>http://www.schellenurs.li/first/index.html</link>
+            <description><![CDATA[<article><h1>Schellenursli, thats me!</h1><p>This is the Schellenursli, thats me. Ursin Saluz. Here I want to blog about my live and things I like. Sometimes in english, sometimes in german and maybe even a bit of swiss-german. Enjoy.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4c4907c-a90b-48b9-9d23-cf34ebeef57a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/schellenursli/first/index.html</link>
             <guid isPermaLink="false">df895105-28f0-4ce5-a3c4-02c84995971e</guid>
-            <pubDate>Wed, 31 Aug 2016 12:26:57 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 12:31:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
