@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Schellenursli]]></title>
+        <description><![CDATA[Schellenursli]]></description>
+        <link>http://www.schellenurs.li/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 31 Aug 2016 12:27:01 GMT</lastBuildDate>
+        <atom:link href="http://www.schellenurs.li/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Schellenursli, thats me!]]></title>
+            <description><![CDATA[<article><h1>Schellenursli, thats me!</h1><p>This is the Schellenursli, thats me. Ursin Saluz. Here I want to blog about my live and things I like. Sometimes in english, sometimes in german and maybe even a bit of swiss-german. Enjoy.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/230dab37-74f1-4559-ac87-e57789d7b1a0.jpg"></article>]]></description>
+            <link>http://www.schellenurs.li/first/index.html</link>
+            <guid isPermaLink="false">df895105-28f0-4ce5-a3c4-02c84995971e</guid>
+            <pubDate>Wed, 31 Aug 2016 12:26:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
