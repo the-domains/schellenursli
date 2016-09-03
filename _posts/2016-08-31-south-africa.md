@@ -1,22 +1,23 @@
 ---
-datePublished: '2016-08-31T17:11:04.156Z'
+datePublished: '2016-08-31T17:11:45.584Z'
 inFeed: true
-isBasedOnUrl: 'http://ursin-in-africa.blogspot.ch/'
 author:
   - name: Ursin Saluz
     url: 'https://plus.google.com/112156759468026952046'
     avatar: {}
 via: {}
-dateModified: '2016-08-31T17:10:18.966Z'
+dateModified: '2016-08-31T17:11:44.770Z'
 title: South Africa
 publisher: {}
 description: >-
   Das ist ja schon wieder eine Weile her, aber ich war ja mal in Südafrika. Das
   war ein Austauschsemester in 2011. Zu dieser Zeit habe ich einen
   Eigenständigen Blog geführt, den du hier einsehen kannst.
-starred: false
 sourcePath: _posts/2016-08-31-south-africa.md
-_type: MediaObject
+hasPage: true
+starred: false
+url: south-africa/index.html
+_type: Article
 
 ---
 # South Africa
