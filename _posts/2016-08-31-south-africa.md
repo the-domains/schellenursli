@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-31T17:11:45.584Z'
+datePublished: '2016-08-31T17:12:12.130Z'
 inFeed: true
 author:
   - name: Ursin Saluz
     url: 'https://plus.google.com/112156759468026952046'
     avatar: {}
 via: {}
-dateModified: '2016-08-31T17:11:44.770Z'
+dateModified: '2016-08-31T17:12:11.854Z'
 title: South Africa
 publisher: {}
 description: >-
